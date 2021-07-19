@@ -1,0 +1,23 @@
+
+#red{
+    background-color: red;
+ 
+    height: 30vmax;
+    width: 40vmin;
+    border:black solid 2px;
+}
+
+#blue{
+    margin-left: 40rem;
+        background-color: blue;
+    height: 30vmax;
+    width: 40vmin;
+    border:black solid 2px;
+}
+
+#yellow{
+    background-color: yellow;
+    height: 30vmax;
+    width: 40vmin;
+    border:black solid 2px;
+}
